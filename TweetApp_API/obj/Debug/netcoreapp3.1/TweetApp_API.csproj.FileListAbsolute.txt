@@ -1,0 +1,229 @@
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.exe
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.deps.json
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.runtimeconfig.json
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.runtimeconfig.dev.json
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.pdb
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Models.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Models.pdb
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.csproj.AssemblyReference.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.AssemblyInfoInputs.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.AssemblyInfo.cs
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.csproj.CoreCompileInputs.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\staticwebassets\TweetApp_API.StaticWebAssets.Manifest.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\staticwebassets\TweetApp_API.StaticWebAssets.xml
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\TweetApp_API.styles.css
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.RazorTargetAssemblyInfo.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.csproj.CopyComplete
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.pdb
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.genruntimeconfig.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Services.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Services.pdb
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.exe
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.deps.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.runtimeconfig.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.runtimeconfig.dev.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Models.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Services.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Services.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Models.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.AssemblyInfo.cs
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\staticwebassets\TweetApp_API.StaticWebAssets.Manifest.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\staticwebassets\TweetApp_API.StaticWebAssets.xml
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\TweetApp_API.styles.css
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.genruntimeconfig.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\Confluent.Kafka.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\debian9-librdkafka.so
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\librdkafka.so
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafka.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libzstd.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp120.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcr120.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\zlib.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafka.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libzstd.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp120.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcr120.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\zlib.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.exe
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.deps.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.runtimeconfig.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.runtimeconfig.dev.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_API.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Confluent.Kafka.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\debian9-librdkafka.so
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\librdkafka.so
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafka.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libzstd.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcp120.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\msvcr120.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\zlib.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafka.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libzstd.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcp120.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\msvcr120.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\zlib.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Models.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Services.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Services.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\bin\Debug\netcoreapp3.1\TweetApp_Models.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.AssemblyInfo.cs
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\staticwebassets\TweetApp_API.StaticWebAssets.Manifest.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\staticwebassets\TweetApp_API.StaticWebAssets.xml
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\scopedcss\bundle\TweetApp_API.styles.css
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.RazorTargetAssemblyInfo.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_API\obj\Debug\netcoreapp3.1\TweetApp_API.genruntimeconfig.cache

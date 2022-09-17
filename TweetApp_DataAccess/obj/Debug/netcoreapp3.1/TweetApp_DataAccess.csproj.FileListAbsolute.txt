@@ -1,0 +1,46 @@
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.deps.json
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.runtimeconfig.json
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.runtimeconfig.dev.json
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_Models.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_Models.pdb
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.csproj.AssemblyReference.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.AssemblyInfoInputs.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.AssemblyInfo.cs
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.csproj.CopyComplete
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\842352\source\repos\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.genruntimeconfig.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.deps.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.runtimeconfig.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.runtimeconfig.dev.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_Models.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_Models.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.AssemblyInfo.cs
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.genruntimeconfig.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.deps.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.runtimeconfig.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.runtimeconfig.dev.json
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_Models.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\bin\Debug\netcoreapp3.1\TweetApp_Models.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.csproj.AssemblyReference.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.AssemblyInfoInputs.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.AssemblyInfo.cs
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.dll
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.pdb
+C:\Users\cogdotnet1070\Desktop\FSE\Tweet_BackEnd-master\Tweet_Application\Tweet_Application - Copy\TweetApp_DataAccess\obj\Debug\netcoreapp3.1\TweetApp_DataAccess.genruntimeconfig.cache
